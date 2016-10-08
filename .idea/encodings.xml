@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/11.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/12.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/13.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/14.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/15.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/62.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/63.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/64.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/65.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/province.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/province.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="UTF-8" />
+  </component>
+</project>
